@@ -14,10 +14,9 @@ namespace KLAD.Models
     {
         SpeedUp,
         SpeedDown,
-        WallAction // Combined builder/destroyer prize
+        WallAction 
     }
 
-    // Базовый элемент лабиринта
     public interface IMazeElement
     {
         ElementType Type { get; }
@@ -49,7 +48,6 @@ namespace KLAD.Models
         public PrizeType PrizeType { get; set; }
     }
 
-    // Паттерн "Декоратор" для изменения свойств элементов
     public abstract class MazeElementDecorator : IMazeElement
     {
         protected IMazeElement _baseElement;
@@ -81,7 +79,6 @@ namespace KLAD.Models
         public override ElementType Type => ElementType.Empty;
     }
 
-    // Паттерн "Фабричный метод" для генерации призов
     public abstract class PrizeFactory
     {
         public abstract Prize CreatePrize();
@@ -102,7 +99,6 @@ namespace KLAD.Models
         public override Prize CreatePrize() => new Prize { PrizeType = PrizeType.WallAction };
     }
 
-    // Сущность игрока
     public class Player
     {
         public int Id { get; set; }
@@ -111,14 +107,12 @@ namespace KLAD.Models
         public float Speed { get; set; } = 4.0f;
         public int Score { get; set; }
         
-        public int WallCharges { get; set; } // Количество зарядов для строительства/разрушения стен
+        public int WallCharges { get; set; } 
         
-        // Направление взгляда для строительства
         public float DirX { get; set; } = 0;
         public float DirY { get; set; } = 1;
     }
 
-    // Лабиринт
     public class Maze
     {
         public int Width { get; set; }
@@ -133,7 +127,6 @@ namespace KLAD.Models
         }
     }
 
-    // Состояние игры
     public class GameState
     {
         public Maze Level { get; set; }

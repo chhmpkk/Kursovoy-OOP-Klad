@@ -58,9 +58,6 @@ namespace KLAD.Rendering
             _shader.Use();
             GL.BindVertexArray(_vao);
 
-            // Simple Orthographic projection
-            // We assume a coordinate system where (0,0) is top-left or bottom-left depending on setup.
-            // Let's use width and height of the maze
             int width = state.Level.Width;
             int height = state.Level.Height;
             if (width == 0 || height == 0) return;
@@ -82,10 +79,8 @@ namespace KLAD.Rendering
 
                     Vector4 color = GetColorForElement(element.Type);
                     
-                    // Skip empty space to save draw calls
                     if (element.Type == ElementType.Empty) continue;
 
-                    // Position cell (offset by 0.5 to align center of quad with grid index)
                     Matrix4 model = Matrix4.CreateTranslation(x + 0.5f, y + 0.5f, 0.0f);
 
                     GL.UniformMatrix4(modelLocation, false, ref model);
@@ -95,9 +90,8 @@ namespace KLAD.Rendering
                 }
             }
             
-            // Draw Player 1
             DrawPlayer(state.Player1, new Vector4(1.0f, 0.0f, 0.0f, 1.0f), modelLocation, colorLocation);
-            // Draw Player 2
+       
             DrawPlayer(state.Player2, new Vector4(0.0f, 0.0f, 1.0f, 1.0f), modelLocation, colorLocation);
         }
 
@@ -114,10 +108,10 @@ namespace KLAD.Rendering
         {
             return type switch
             {
-                ElementType.Wall => new Vector4(0.5f, 0.5f, 0.5f, 1.0f), // Gray
-                ElementType.Treasure => new Vector4(1.0f, 1.0f, 0.0f, 1.0f), // Yellow
-                ElementType.Prize => new Vector4(0.0f, 1.0f, 0.0f, 1.0f), // Green
-                _ => new Vector4(0.0f, 0.0f, 0.0f, 1.0f) // Black/Empty
+                ElementType.Wall => new Vector4(0.5f, 0.5f, 0.5f, 1.0f), 
+                ElementType.Treasure => new Vector4(1.0f, 1.0f, 0.0f, 1.0f), 
+                ElementType.Prize => new Vector4(0.0f, 1.0f, 0.0f, 1.0f),
+                _ => new Vector4(0.0f, 0.0f, 0.0f, 1.0f) 
             };
         }
 

@@ -21,7 +21,6 @@ namespace KLAD
         {
             InitializeComponent();
             
-            // Initialize basic game state
             _gameState = new GameState();
             
             try
@@ -30,17 +29,15 @@ namespace KLAD
                 string mapPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "..", "..", "..", "Maps", "set.bmp");
                 _gameState.Level = loader.LoadFromBmp(mapPath);
                 
-                // Спавним сокровища (если их нет на карте, добавим ровно 15 штук)
                 SpawnTreasuresIfNeed(15);
 
-                // Спавним 10 случайных призов после загрузки лабиринта
                 var spawner = new PrizeSpawner();
                 spawner.SpawnPrizes(_gameState.Level, 10);
             }
             catch (Exception ex)
             {
                 MessageBox.Show("Failed to load map: " + ex.Message);
-                _gameState.Level = new Maze(20, 15); // Fallback mock maze
+                _gameState.Level = new Maze(20, 15); 
                 for (int x = 0; x < 20; x++)
                     for (int y = 0; y < 15; y++)
                         _gameState.Level.Grid[x,y] = new EmptySpace();
@@ -62,7 +59,6 @@ namespace KLAD
         private void SpawnTreasuresIfNeed(int targetCount)
         {
             int currentTreasures = 0;
-            // Считаем сколько уже есть
             for (int x = 0; x < _gameState.Level.Width; x++)
             {
                 for (int y = 0; y < _gameState.Level.Height; y++)
@@ -141,14 +137,12 @@ namespace KLAD
 
             if (dx != 0 || dy != 0)
             {
-                // Запоминаем направление взгляда
                 p.DirX = dx;
                 p.DirY = dy;
 
                 float newX = p.X + dx * p.Speed * dt;
                 float newY = p.Y + dy * p.Speed * dt;
 
-                // Проверка столкновений со стенами (упрощенная AABB)
                 if (CanMoveTo(newX, newY))
                 {
                     p.X = newX;
@@ -160,7 +154,6 @@ namespace KLAD
 
         private bool CanMoveTo(float x, float y)
         {
-            // Упрощенная проверка центра игрока
             int gridX = (int)Math.Round(x);
             int gridY = (int)Math.Round(y);
 
@@ -184,20 +177,20 @@ namespace KLAD
                 if (element is Treasure)
                 {
                     p.Score++;
-                    _gameState.Level.Grid[gridX, gridY] = new EmptySpace(); // Съедаем
+                    _gameState.Level.Grid[gridX, gridY] = new EmptySpace(); 
                     CheckWinCondition();
                 }
                 else if (element is Prize prize)
                 {
                     ApplyPrize(p, prize);
-                    _gameState.Level.Grid[gridX, gridY] = new EmptySpace(); // Съедаем
+                    _gameState.Level.Grid[gridX, gridY] = new EmptySpace(); 
                 }
             }
         }
 
         private void CheckWinCondition()
         {
-            int winScore = (_gameState.TotalTreasures / 2) + 1; // Большинство
+            int winScore = (_gameState.TotalTreasures / 2) + 1; 
 
             if (_gameState.Player1.Score >= winScore)
             {
@@ -225,7 +218,6 @@ namespace KLAD
         {
             if (p.WallCharges <= 0 || _gameState.IsGameOver) return;
 
-            // Определяем клетку перед игроком на основе его направления
             int targetX = (int)Math.Round(p.X + (p.DirX == 0 ? 0 : Math.Sign(p.DirX)));
             int targetY = (int)Math.Round(p.Y + (p.DirY == 0 ? 0 : Math.Sign(p.DirY)));
 
@@ -235,13 +227,11 @@ namespace KLAD
 
                 if (targetElement.Type == ElementType.Empty)
                 {
-                    // Строим временную стену (Декоратор над пустым пространством)
                     _gameState.Level.Grid[targetX, targetY] = new TemporaryWallDecorator(targetElement);
                     p.WallCharges--;
                 }
                 else if (targetElement is TemporaryWallDecorator || targetElement.Type == ElementType.Wall)
                 {
-                    // Ломаем стену (Декоратор над стеной)
                     _gameState.Level.Grid[targetX, targetY] = new DestroyedWallDecorator(targetElement);
                     p.WallCharges--;
                 }

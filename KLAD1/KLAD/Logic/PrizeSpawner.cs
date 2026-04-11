@@ -11,7 +11,6 @@ namespace KLAD.Logic
 
         public PrizeSpawner()
         {
-            // Регистрируем фабрики для каждого типа призов
             _factories = new List<PrizeFactory>
             {
                 new SpeedUpPrizeFactory(),
@@ -23,7 +22,7 @@ namespace KLAD.Logic
         public void SpawnPrizes(Maze maze, int numberOfPrizes)
         {
             int spawned = 0;
-            int maxAttempts = numberOfPrizes * 10; // Защита от зацикливания
+            int maxAttempts = numberOfPrizes * 10; 
             int attempts = 0;
 
             while (spawned < numberOfPrizes && attempts < maxAttempts)
@@ -33,14 +32,11 @@ namespace KLAD.Logic
                 int x = _random.Next(maze.Width);
                 int y = _random.Next(maze.Height);
 
-                // Спавним приз только в пустом пространстве
                 if (maze.Grid[x, y] != null && maze.Grid[x, y].Type == ElementType.Empty)
                 {
-                    // Выбираем случайную фабрику
                     int factoryIndex = _random.Next(_factories.Count);
                     PrizeFactory factory = _factories[factoryIndex];
                     
-                    // Создаем приз через фабричный метод и помещаем в лабиринт
                     maze.Grid[x, y] = factory.CreatePrize();
                     spawned++;
                 }

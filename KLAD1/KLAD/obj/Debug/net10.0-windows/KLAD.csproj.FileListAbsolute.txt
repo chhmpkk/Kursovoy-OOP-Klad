@@ -72,3 +72,4 @@ D:\.UNIK\2kurs\4 SEM\КУРСАЧ\KLAD1\KLAD\obj\Debug\net10.0-windows\refint\KL
 D:\.UNIK\2kurs\4 SEM\КУРСАЧ\KLAD1\KLAD\obj\Debug\net10.0-windows\KLAD.pdb
 D:\.UNIK\2kurs\4 SEM\КУРСАЧ\KLAD1\KLAD\obj\Debug\net10.0-windows\KLAD.genruntimeconfig.cache
 D:\.UNIK\2kurs\4 SEM\КУРСАЧ\KLAD1\KLAD\obj\Debug\net10.0-windows\ref\KLAD.dll
+D:\.UNIK\2kurs\4 SEM\КУРСАЧ\KLAD1\KLAD\obj\Debug\net10.0-windows\KLAD.sourcelink.json

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\logic\\prizespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\logic\\prizespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\rendering\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\rendering\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\rendering\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\rendering\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\rendering\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\rendering\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\models\\mazeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\models\\mazeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\models\\gamemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\models\\gamemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\logic\\prizespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\logic\\prizespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\klad1\\klad\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MazeLoader.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Models\\MazeLoader.cs",
+              "RelativeDocumentMoniker": "KLAD\\Models\\MazeLoader.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Models\\MazeLoader.cs*",
+              "RelativeToolTip": "KLAD\\Models\\MazeLoader.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:25:23.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameModels.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Models\\GameModels.cs",
+              "RelativeDocumentMoniker": "KLAD\\Models\\GameModels.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Models\\GameModels.cs*",
+              "RelativeToolTip": "KLAD\\Models\\GameModels.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T20:24:59.225Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
@@ -46,44 +80,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "PrizeSpawner.cs",
               "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Logic\\PrizeSpawner.cs",
               "RelativeDocumentMoniker": "KLAD\\Logic\\PrizeSpawner.cs",
               "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Logic\\PrizeSpawner.cs",
               "RelativeToolTip": "KLAD\\Logic\\PrizeSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-04T20:24:20.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameRenderer.cs",
               "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Rendering\\GameRenderer.cs",
               "RelativeDocumentMoniker": "KLAD\\Rendering\\GameRenderer.cs",
-              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Rendering\\GameRenderer.cs",
-              "RelativeToolTip": "KLAD\\Rendering\\GameRenderer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Rendering\\GameRenderer.cs*",
+              "RelativeToolTip": "KLAD\\Rendering\\GameRenderer.cs*",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwG4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T20:23:38.086Z"
+              "WhenOpened": "2026-04-04T20:23:38.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Shader.cs",
               "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Rendering\\Shader.cs",
               "RelativeDocumentMoniker": "KLAD\\Rendering\\Shader.cs",
               "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\Rendering\\Shader.cs",
               "RelativeToolTip": "KLAD\\Rendering\\Shader.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T20:04:36.032Z"
+              "WhenOpened": "2026-04-04T20:04:36.032Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\MainWindow.xaml",
               "RelativeDocumentMoniker": "KLAD\\MainWindow.xaml",
@@ -94,15 +130,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "KLAD\\MainWindow.xaml.cs",
               "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\KLAD1\\KLAD\\MainWindow.xaml.cs",
               "RelativeToolTip": "KLAD\\MainWindow.xaml.cs",
-              "ViewState": "AgIAALMAAAAAAAAAAAAAwKMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T18:29:07.233Z"
+              "WhenOpened": "2026-04-04T18:29:07.233Z",
+              "EditorCaption": ""
             }
           ]
         }

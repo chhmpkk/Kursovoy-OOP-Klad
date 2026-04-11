@@ -12,7 +12,6 @@ namespace KLAD.Logic
             if (!File.Exists(filePath))
                 throw new FileNotFoundException($"Map file not found: {filePath}");
 
-            // Using System.Drawing.Common for simple BMP pixel parsing
             using (var bitmap = new Bitmap(filePath))
             {
                 var maze = new Maze(bitmap.Width, bitmap.Height);
@@ -32,12 +31,11 @@ namespace KLAD.Logic
 
         private IMazeElement GetElementFromColor(Color color)
         {
-            // Пример маппинга цветов. Black = Wall, White = Empty, Yellow = Treasure
-            if (color.R == 0 && color.G == 0 && color.B == 0) // Black
+            if (color.R == 0 && color.G == 0 && color.B == 0) 
                 return new Wall();
-            else if (color.R == 255 && color.G == 255 && color.B == 0) // Yellow
+            else if (color.R == 255 && color.G == 255 && color.B == 0) 
                 return new Treasure();
-            else // Default to Empty
+            else 
                 return new EmptySpace();
         }
     }
