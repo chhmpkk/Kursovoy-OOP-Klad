@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="KLAD.Logic/KLAD.Logic.csproj" />
+  <Project Path="KLAD.Models/KLAD.Models.csproj" />
+  <Project Path="KLAD.Rendering/KLAD.Rendering.csproj" />
+  <Project Path="KLAD/KLAD.csproj" />
+</Solution>

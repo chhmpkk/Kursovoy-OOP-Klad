@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "aLaiBtDNiGA=",
+  "success": true,
+  "projectFilePath": "D:\\.UNIK\\2kurs\\4 SEM\\КУРСАЧ\\курсач3\\KLAD\\KLAD.Models\\KLAD.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qqq\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\qqq\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Не удалось загрузить индекс службы для источника https://api.nuget.org/v3/index.json.",
+      "projectPath": "D:\\.UNIK\\2kurs\\4 SEM\\КУРСАЧ\\курсач3\\KLAD\\KLAD.Models\\KLAD.Models.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\.UNIK\\2kurs\\4 SEM\\КУРСАЧ\\курсач3\\KLAD\\KLAD.Models\\KLAD.Models.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
