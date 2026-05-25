@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="KLAD.Logic/KLAD.Logic.csproj" />
+  <Project Path="KLAD.Models/KLAD.Models.csproj" />
+  <Project Path="KLAD.Rendering/KLAD.Rendering.csproj" />
+  <Project Path="KLAD/KLAD.csproj" />
+  <Project Path="KLAD.Tests/KLAD.Tests.csproj" />
+  <Project Path="KLAD.Factories/KLAD.Factories.csproj" />
+  <Project Path="KLAD.Decorators/KLAD.Decorators.csproj" />
+</Solution>

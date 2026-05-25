@@ -1,0 +1,522 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF8887B-9B2F-D5D4-D329-EB937DDA3C0C}|KLAD.Decorators\\KLAD.Decorators.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.decorators\\destroyedwalldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF8887B-9B2F-D5D4-D329-EB937DDA3C0C}|KLAD.Decorators\\KLAD.Decorators.csproj|solutionrelative:klad.decorators\\destroyedwalldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KLAD\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBD48CF-68E5-DFD9-8FAD-34452E4B7431}|KLAD.Rendering\\KLAD.Rendering.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.rendering\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBD48CF-68E5-DFD9-8FAD-34452E4B7431}|KLAD.Rendering\\KLAD.Rendering.csproj|solutionrelative:klad.rendering\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBD48CF-68E5-DFD9-8FAD-34452E4B7431}|KLAD.Rendering\\KLAD.Rendering.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.rendering\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBD48CF-68E5-DFD9-8FAD-34452E4B7431}|KLAD.Rendering\\KLAD.Rendering.csproj|solutionrelative:klad.rendering\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\mazeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\mazeloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\maze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\imazeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\imazeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EBD48CF-68E5-DFD9-8FAD-34452E4B7431}|KLAD.Rendering\\KLAD.Rendering.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.rendering\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EBD48CF-68E5-DFD9-8FAD-34452E4B7431}|KLAD.Rendering\\KLAD.Rendering.csproj|solutionrelative:klad.rendering\\texture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF8887B-9B2F-D5D4-D329-EB937DDA3C0C}|KLAD.Decorators\\KLAD.Decorators.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.decorators\\mazeelementdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF8887B-9B2F-D5D4-D329-EB937DDA3C0C}|KLAD.Decorators\\KLAD.Decorators.csproj|solutionrelative:klad.decorators\\mazeelementdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF52AACE-02B7-84A4-6649-54415391F2B0}|KLAD.Logic\\KLAD.Logic.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.logic\\prizespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF52AACE-02B7-84A4-6649-54415391F2B0}|KLAD.Logic\\KLAD.Logic.csproj|solutionrelative:klad.logic\\prizespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB2391B-7346-9CC5-76A3-F3C17EA81A22}|KLAD.Factories\\KLAD.Factories.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.factories\\speedupprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB2391B-7346-9CC5-76A3-F3C17EA81A22}|KLAD.Factories\\KLAD.Factories.csproj|solutionrelative:klad.factories\\speedupprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF8887B-9B2F-D5D4-D329-EB937DDA3C0C}|KLAD.Decorators\\KLAD.Decorators.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.decorators\\temporarywalldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF8887B-9B2F-D5D4-D329-EB937DDA3C0C}|KLAD.Decorators\\KLAD.Decorators.csproj|solutionrelative:klad.decorators\\temporarywalldecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB2391B-7346-9CC5-76A3-F3C17EA81A22}|KLAD.Factories\\KLAD.Factories.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.factories\\prizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB2391B-7346-9CC5-76A3-F3C17EA81A22}|KLAD.Factories\\KLAD.Factories.csproj|solutionrelative:klad.factories\\prizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB2391B-7346-9CC5-76A3-F3C17EA81A22}|KLAD.Factories\\KLAD.Factories.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.factories\\wallactionprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB2391B-7346-9CC5-76A3-F3C17EA81A22}|KLAD.Factories\\KLAD.Factories.csproj|solutionrelative:klad.factories\\wallactionprizefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\prizetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\prizetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\elementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\elementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\emptyspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\emptyspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429CC854-5DEF-6B36-1E4C-65915DCEB4BD}|KLAD.Tests\\KLAD.Tests.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.tests\\kladtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429CC854-5DEF-6B36-1E4C-65915DCEB4BD}|KLAD.Tests\\KLAD.Tests.csproj|solutionrelative:klad.tests\\kladtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\prize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\treasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.models\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{467D5813-B52B-30A9-2CD2-B6FC03C0A412}|KLAD.Models\\KLAD.Models.csproj|solutionrelative:klad.models\\wall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30E74FC4-D268-8B3B-FC8E-176DCAE77879}|KLAD\\KLAD.csproj|solutionrelative:klad\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429CC854-5DEF-6B36-1E4C-65915DCEB4BD}|KLAD.Tests\\KLAD.Tests.csproj|d:\\.unik\\2kurs\\4 sem\\\u043A\u0443\u0440\u0441\u0430\u0447\\\u043A\u0443\u0440\u0441\u0430\u04476\\klad\\klad.tests\\klad.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{429CC854-5DEF-6B36-1E4C-65915DCEB4BD}|KLAD.Tests\\KLAD.Tests.csproj|solutionrelative:klad.tests\\klad.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04475\\KLAD\\KLAD.Models\\SpeedDownPrizeFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "KLAD\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "KLAD\\obj\\Debug\\net9.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIAwwKAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T05:31:12.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\App.xaml",
+              "RelativeDocumentMoniker": "KLAD\\App.xaml",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\App.xaml",
+              "RelativeToolTip": "KLAD\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-24T08:27:29.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "KLAD\\AssemblyInfo.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\AssemblyInfo.cs",
+              "RelativeToolTip": "KLAD\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:20:57.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "KladTests.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Tests\\KladTests.cs",
+              "RelativeDocumentMoniker": "KLAD.Tests\\KladTests.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Tests\\KladTests.cs",
+              "RelativeToolTip": "KLAD.Tests\\KladTests.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAAANcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-17T16:18:52.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "KLAD.Tests.csproj",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Tests\\KLAD.Tests.csproj",
+              "RelativeDocumentMoniker": "KLAD.Tests\\KLAD.Tests.csproj",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Tests\\KLAD.Tests.csproj",
+              "RelativeToolTip": "KLAD.Tests\\KLAD.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-17T16:18:28.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestroyedWallDecorator.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Decorators\\DestroyedWallDecorator.cs",
+              "RelativeDocumentMoniker": "KLAD.Decorators\\DestroyedWallDecorator.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Decorators\\DestroyedWallDecorator.cs",
+              "RelativeToolTip": "KLAD.Decorators\\DestroyedWallDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:55.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MazeElementDecorator.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Decorators\\MazeElementDecorator.cs",
+              "RelativeDocumentMoniker": "KLAD.Decorators\\MazeElementDecorator.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Decorators\\MazeElementDecorator.cs",
+              "RelativeToolTip": "KLAD.Decorators\\MazeElementDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:53.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TemporaryWallDecorator.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Decorators\\TemporaryWallDecorator.cs",
+              "RelativeDocumentMoniker": "KLAD.Decorators\\TemporaryWallDecorator.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Decorators\\TemporaryWallDecorator.cs",
+              "RelativeToolTip": "KLAD.Decorators\\TemporaryWallDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:50.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PrizeFactory.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Factories\\PrizeFactory.cs",
+              "RelativeDocumentMoniker": "KLAD.Factories\\PrizeFactory.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Factories\\PrizeFactory.cs",
+              "RelativeToolTip": "KLAD.Factories\\PrizeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpeedUpPrizeFactory.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Factories\\SpeedUpPrizeFactory.cs",
+              "RelativeDocumentMoniker": "KLAD.Factories\\SpeedUpPrizeFactory.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Factories\\SpeedUpPrizeFactory.cs",
+              "RelativeToolTip": "KLAD.Factories\\SpeedUpPrizeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:37.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WallActionPrizeFactory.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Factories\\WallActionPrizeFactory.cs",
+              "RelativeDocumentMoniker": "KLAD.Factories\\WallActionPrizeFactory.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Factories\\WallActionPrizeFactory.cs",
+              "RelativeToolTip": "KLAD.Factories\\WallActionPrizeFactory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:34.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ElementType.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\ElementType.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\ElementType.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\ElementType.cs",
+              "RelativeToolTip": "KLAD.Models\\ElementType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:22.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmptySpace.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\EmptySpace.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\EmptySpace.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\EmptySpace.cs",
+              "RelativeToolTip": "KLAD.Models\\EmptySpace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:19.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameSettings.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\GameSettings.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\GameSettings.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\GameSettings.cs",
+              "RelativeToolTip": "KLAD.Models\\GameSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:15.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\GameState.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\GameState.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\GameState.cs",
+              "RelativeToolTip": "KLAD.Models\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:11.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMazeElement.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\IMazeElement.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\IMazeElement.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\IMazeElement.cs",
+              "RelativeToolTip": "KLAD.Models\\IMazeElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:42:08.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Wall.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Wall.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\Wall.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Wall.cs",
+              "RelativeToolTip": "KLAD.Models\\Wall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:41:44.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Rendering\\Shader.cs",
+              "RelativeDocumentMoniker": "KLAD.Rendering\\Shader.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Rendering\\Shader.cs",
+              "RelativeToolTip": "KLAD.Rendering\\Shader.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:41:28.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Texture.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Rendering\\Texture.cs",
+              "RelativeDocumentMoniker": "KLAD.Rendering\\Texture.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Rendering\\Texture.cs",
+              "RelativeToolTip": "KLAD.Rendering\\Texture.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:36:15.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Treasure.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Treasure.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\Treasure.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Treasure.cs",
+              "RelativeToolTip": "KLAD.Models\\Treasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:35:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Player.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\Player.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Player.cs",
+              "RelativeToolTip": "KLAD.Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:35:35.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Maze.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Maze.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\Maze.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Maze.cs",
+              "RelativeToolTip": "KLAD.Models\\Maze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T11:15:01.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MazeLoader.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\MazeLoader.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\MazeLoader.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\MazeLoader.cs",
+              "RelativeToolTip": "KLAD.Models\\MazeLoader.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIAwwBgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T10:36:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Prize.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Prize.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\Prize.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\Prize.cs",
+              "RelativeToolTip": "KLAD.Models\\Prize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T11:37:40.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameRenderer.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Rendering\\GameRenderer.cs",
+              "RelativeDocumentMoniker": "KLAD.Rendering\\GameRenderer.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Rendering\\GameRenderer.cs",
+              "RelativeToolTip": "KLAD.Rendering\\GameRenderer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAEwGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:48:16.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrizeSpawner.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Logic\\PrizeSpawner.cs",
+              "RelativeDocumentMoniker": "KLAD.Logic\\PrizeSpawner.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Logic\\PrizeSpawner.cs",
+              "RelativeToolTip": "KLAD.Logic\\PrizeSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:35:59.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SpeedDownPrizeFactory.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04475\\KLAD\\KLAD.Models\\SpeedDownPrizeFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u043A\u0443\u0440\u0441\u0430\u04475\\KLAD\\KLAD.Models\\SpeedDownPrizeFactory.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04475\\KLAD\\KLAD.Models\\SpeedDownPrizeFactory.cs",
+              "RelativeToolTip": "..\\..\\\u043A\u0443\u0440\u0441\u0430\u04475\\KLAD\\KLAD.Models\\SpeedDownPrizeFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:35:45.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PrizeType.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\PrizeType.cs",
+              "RelativeDocumentMoniker": "KLAD.Models\\PrizeType.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD.Models\\PrizeType.cs",
+              "RelativeToolTip": "KLAD.Models\\PrizeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T05:28:51.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KLAD\\MainWindow.xaml",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\MainWindow.xaml",
+              "RelativeToolTip": "KLAD\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-04T18:29:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KLAD\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\.UNIK\\2kurs\\4 SEM\\\u041A\u0423\u0420\u0421\u0410\u0427\\\u043A\u0443\u0440\u0441\u0430\u04476\\KLAD\\KLAD\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KLAD\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwGEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T18:29:07.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

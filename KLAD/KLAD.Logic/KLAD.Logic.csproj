@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KLAD.Models\KLAD.Models.csproj" />
+    <PackageReference Include="System.Drawing.Common" Version="8.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KLAD.Factories\KLAD.Factories.csproj" />
+    <ProjectReference Include="..\KLAD.Decorators\KLAD.Decorators.csproj" />
+  </ItemGroup>
+</Project>

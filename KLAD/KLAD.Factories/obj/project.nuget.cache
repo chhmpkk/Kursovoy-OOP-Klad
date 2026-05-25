@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "eaURKi1h4Ow=",
+  "success": true,
+  "projectFilePath": "D:\\.UNIK\\2kurs\\4 SEM\\КУРСАЧ\\курсач6\\KLAD\\KLAD.Factories\\KLAD.Factories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qqq\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\qqq\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\qqq\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.16\\microsoft.windowsdesktop.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\qqq\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.16\\microsoft.netcore.app.ref.9.0.16.nupkg.sha512",
+    "C:\\Users\\qqq\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.16\\microsoft.aspnetcore.app.ref.9.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
